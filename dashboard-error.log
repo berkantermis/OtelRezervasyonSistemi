@@ -1,0 +1,10 @@
+[10-Dec-2025 20:39:25 UTC] PHP Fatal error:  Uncaught TypeError: fetch_musteri_rez(): Argument #1 ($musteriId) must be of type int, string given, called in C:\Users\Beyza\Desktop\VTYS-Proje\public\dashboard.php on line 311 and defined in C:\Users\Beyza\Desktop\VTYS-Proje\public\dashboard.php:284
+Stack trace:
+#0 C:\Users\Beyza\Desktop\VTYS-Proje\public\dashboard.php(311): fetch_musteri_rez('1')
+#1 {main}
+  thrown in C:\Users\Beyza\Desktop\VTYS-Proje\public\dashboard.php on line 284
+[10-Dec-2025 20:39:25 UTC] PHP Fatal error:  Uncaught TypeError: fetch_musteri_rez(): Argument #1 ($musteriId) must be of type int, string given, called in C:\Users\Beyza\Desktop\VTYS-Proje\public\dashboard.php on line 311 and defined in C:\Users\Beyza\Desktop\VTYS-Proje\public\dashboard.php:284
+Stack trace:
+#0 C:\Users\Beyza\Desktop\VTYS-Proje\public\dashboard.php(311): fetch_musteri_rez('1')
+#1 {main}
+  thrown in C:\Users\Beyza\Desktop\VTYS-Proje\public\dashboard.php on line 284
